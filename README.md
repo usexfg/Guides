@@ -1,2 +1,3 @@
-# Guides
-Guides &amp; Tutorials affect to Fango
+# Fandom Gold Society Guides
+
+[Fango Guides &amp; Tutorials](https://github.com/FandomGold/Guides/wiki)
