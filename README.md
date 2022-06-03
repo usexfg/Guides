@@ -2,4 +2,4 @@
 
 [Fango Guides &amp; Tutorials](https://github.com/FandomGold/Guides/wiki)
 
-[COLD DeFi Banking & DAO info](https://github.com/FandomGold/COLD/blob/main/README.md)
+[How to redeem COLD](https://github.com/FandomGold/COLD-DAO/wiki/How-to-redeem-COLD)
