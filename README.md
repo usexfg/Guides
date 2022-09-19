@@ -1,4 +1,4 @@
-# Fandom Gold Society Guides
+# Elder Node Society Guides
 
 [Fango Guides &amp; Tutorials](https://github.com/FandomGold/Guides/wiki)
 
