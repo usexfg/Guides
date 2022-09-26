@@ -1,4 +1,4 @@
-# Elder Node Society Guides
+# Elder Node Council Guides
 
 [Fuego Guides &amp; Tutorials](https://github.com/FandomGold/Guides/wiki)
 
