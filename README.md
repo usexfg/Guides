@@ -1,4 +1,4 @@
-# Elder Node Council Guides
+# Fuego Elder Council Guides
 
 [<b>Fuego</b> tutorials](https://github.com/usexfg/Guides/wiki)
 
