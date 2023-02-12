@@ -1,4 +1,4 @@
-# Fuego Elder Council Guides
+# Fuego Ecosystem Guides
 
 [<b>Fuego</b> tutorials](https://github.com/usexfg/Guides/wiki)
 
