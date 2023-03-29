@@ -1,4 +1,4 @@
-# Fuego Ecosystem Guides
+# Fuego Guides
 
 [<b>Fuego</b> tutorials](https://github.com/usexfg/Guides/wiki)
 
