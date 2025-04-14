@@ -1,4 +1,6 @@
 # Fuego Guides
+![](https://raw.githubusercontent.com/usexfg/fuego-data/refs/heads/master/images/guardiansoftheflame.gif)
+
 
 [<b>Fuego</b> tutorials](https://github.com/usexfg/Guides/wiki)
 
