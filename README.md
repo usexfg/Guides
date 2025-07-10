@@ -1,13 +1,13 @@
-# Fuego Guides
-![](https://raw.githubusercontent.com/usexfg/fuego-data/refs/heads/master/images/guardiansoftheflame.gif)
+# Fuego Docs
+![image](https://github.com/usexfg/fuego-data/blob/master/fuego-images/guardiansoftheflame.gif?raw=true)
 
 
-[<b>Fuego</b>](https://github.com/usexfg/Guides/wiki)
+[<b>Fuego</b> guides](https://github.com/usexfg/Guides/wiki)
 
-[<b>COLD</b>](https://github.com/usexfg/COLD-DAO/wiki)
+[<b>COLD</b> guides](https://github.com/usexfg/COLD-DAO/wiki)
 
-[<b>COLD DAO</b>](https://github.com/usexfg/COLD-DAO/wiki)
+[<b>COLD DAO</b> info](https://github.com/usexfg/COLD-DAO/wiki)
 
-[<b>DIGM</b>](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706)
+[<b>DIGM</b> info](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706)
 
 <b>Para</b> guides
