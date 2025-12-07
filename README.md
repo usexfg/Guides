@@ -8,7 +8,7 @@
 
 [<b>COLD DAO</b> info](https://github.com/usexfg/COLD-DAO/wiki)
 
-[<b>CODL3</b> Fuego's optimistic rollup info](https://github.com/usexfg/COLD-DAO/wiki)
+[<b>CODL3</b> Fuego's L3 Hyperchain ZK rollup info](https://github.com/usexfg/COLD-DAO/wiki)
 
 [<b>DI₲M</b> (coin) audio hosting info](https://github.com/usexfg/DIGM)
 
