@@ -4,7 +4,7 @@
 
 [<b>Fuego p2p</b> Network guides](https://github.com/usexfg/Guides/wiki)
 
-[<b>Fuego Ξmbers</b> (HEAT)](https://github.com/usexfg/Guides/wiki) <sup><sub> Burn XFG to privately mint atomic (ħeat) equivalent amounts of erc20 (HEAT) tokens</sub></sup>
+[<b>Fuego Ξmbers</b> (HEAT)](https://github.com/usexfg/Guides/wiki) <sup><sub> Burn XFG and privately mint atomic (ħeat) equivalent amount of erc20 (HEAT) tokens</sub></sup>
 
 [<b>COLD</b> Banking Income Lounge](https://github.com/usexfg/COLD-DAO/wiki) <sup><sub>Fuego's DeFi interest offerings on XFG deposit yield</sub></sup>
 
