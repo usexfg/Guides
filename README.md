@@ -1,17 +1,20 @@
-#  USEXFG  guides
+# ₲uides
 ![image](https://github.com/usexfg/fuego-data/blob/master/fuego-images/guardiansoftheflame.gif?raw=true)
 
 
-[<b>Fuego L1</b> network guides](https://github.com/usexfg/Guides/wiki)
+[<b>Fuego p2p</b> Network guides](https://github.com/usexfg/Guides/wiki)
 
-[<b>COLD</b> (CD) banking guides](https://github.com/usexfg/COLD-DAO/wiki)
+[<b>Fuego Ξmbers</b> (HEAT)](https://github.com/usexfg/Guides/wiki) <sup><sub> Burn XFG to privately mint atomic (ħeat) equivalent amounts of erc20 (HEAT) tokens</sub></sup>
 
-[<b>COLD DAO</b> info](https://github.com/usexfg/COLD-DAO/wiki)
+[<b>COLD</b> Banking Income Lounge](https://github.com/usexfg/COLD-DAO/wiki) <sup><sub>Fuego's DeFi interest offerings on XFG deposit yield</sub></sup>
 
-[<b>C0DL3</b> Fuego's L3 Hyperchain ZK rollup info](https://github.com/usexfg/COLD-DAO/wiki)
 
-[<b>DI₲M</b> (coin) audio hosting info](https://github.com/usexfg/DIGM)
+[<b>COLDAO</b> (CD) info](https://github.com/usexfg/COLD-DAO/wiki)
 
-[<b>DIGM</b> (platform) marketplace info](https://digm.usexfg.org)
+[zkC0DL3](https://github.com/usexfg/COLD-DAO/wiki) <sup><sub>Fuego's L3 Hyperchain Privacy Rollup</sub></sup>
 
-[<b>PARA & Paradio</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706)
+[<b>DI₲M</b> coin](https://github.com/usexfg/DIGM) <sup><sub>XFG colored-coin req'd per catalogue hosted on DIGM audio platform</sub></sup>
+
+[<b>DIGM</b> platform](https://digm.usexfg.org) <sup><sub>Decentralized Audio Marketplace</sub></sup>
+
+[<b>Paradio, PARA, & CURA</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706) <sup><sub>Tools for decentralized **artist discovery** & **curation** on DIGM Audio Marketplace Platform</sub></sup>
