@@ -11,7 +11,7 @@
 
 [<b>COLDAO</b> (CD) info](https://github.com/usexfg/COLD-DAO/wiki)
 
-[zkC0DL3](https://github.com/ColinRitman/C0DL3) <sup><sub>Fuego's L3 Hyperchain Privacy Rollup</sub></sup>
+[zkC0DL3](https://github.com/ColinRitman/C0DL3) <sup><sub>Fuego's future Layer_3 EVM Hyperchain zkPrivacy Rollup</sub></sup>
 
 [<b>DI₲M</b> coin](https://github.com/usexfg/DIGM) <sup><sub>XFG colored-coin req'd per catalogue hosted on DIGM audio platform</sub></sup>
 
