@@ -13,8 +13,6 @@
 
 [zkC0DL3](https://github.com/ColinRitman/C0DL3) <sup><sub>Fuego's future Layer_3 EVM Hyperchain zkPrivacy Rollup</sub></sup>
 
-[<b>DI₲M</b> coin](https://github.com/usexfg/DIGM) <sup><sub>XFG colored-coin req'd per catalogue hosted on DIGM audio platform</sub></sup>
-
 [<b>DIGM</b> platform](https://digm.usexfg.org) <sup><sub>Decentralized Audio Marketplace</sub></sup>
 
-[<b>Paradio, PARA, & CURA</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706) <sup><sub>Tools for decentralized **artist discovery** & **curation** on DIGM Audio Marketplace Platform</sub></sup>
+[<b>Paradio, DIGM, PARA, & CURA</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706) <sup><sub>Tools for decentralized audio catalogue hosting, **artist discovery** & **curation** on DIGM Audio Marketplace Platform</sub></sup>
