@@ -4,15 +4,10 @@
 
 [<b>Fuego p2p</b> Network guides](https://github.com/usexfg/Guides/wiki)
 
-[<b>Fuego Ξmbers</b> (HEAT)](https://github.com/usexfg/Guides/wiki) <sup><sub> Burn XFG and privately mint atomic (ħeat) equivalent amount of erc20 (HEAT) tokens</sub></sup>
+[<b>HⲶ∆T</b>](https://github.com/usexfg/Guides/wiki)  - Flatcoin pegged to <b>purchasing power</b>- not the value of any fiat currency, but rather it's rate of inflation. Burn XFG to mint.</sub>
 
-[<b>COLD</b> Banking Income Lounge](https://github.com/usexfg/COLD-DAO/wiki) <sup><sub>Fuego's DeFi interest offerings on XFG deposit yield</sub></sup>
+[<b>DIGM</b> platform](https://digm.usexfg.org) a Decentralized Audio Marketplace & flywheel for generating Fuego L1 swaps.
 
+[<b>DI₲M</b> (stablecoin)](https://docs.usexfg.org) a decentralized stablecoin 
 
-[<b>COLDAO</b> (CD) info](https://github.com/usexfg/COLD-DAO/wiki)
-
-[zkC0DL3](https://github.com/ColinRitman/C0DL3) <sup><sub>Fuego's future Layer_3 EVM Hyperchain zkPrivacy Rollup</sub></sup>
-
-[<b>DIGM</b> platform](https://digm.usexfg.org) <sup><sub>Decentralized Audio Marketplace</sub></sup>
-
-[<b>Paradio, DIGM, PARA, & CURA</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706) <sup><sub>Tools for decentralized audio catalogue hosting, **artist discovery** & **curation** on DIGM Audio Marketplace Platform</sub></sup>
+[<b>Paradio, DIGM, PARA, & CURA</b> guides](https://bitcointalk.org/index.php?topic=5285130.msg55474706#msg55474706) Tools for decentralized audio catalogue hosting, **artist discovery** & **curation** on DIGM Platform
